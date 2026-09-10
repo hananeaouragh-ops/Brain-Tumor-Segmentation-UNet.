@@ -13,7 +13,7 @@ Accurate identification of brain lesions plays a critical role in computer-aided
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Deep Learning Framework:** PyTorch
 * **Data Processing & CV:** OpenCV, NumPy, Pandas
 * **Visualization:** Matplotlib
@@ -21,20 +21,20 @@ Accurate identification of brain lesions plays a critical role in computer-aided
 
 ---
 
-## 📊 Dataset
+##  Dataset
 * **Dataset:** [Kaggle Brain MRI Segmentation Dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
 * **Content:** Brain MRI scans along with ground-truth binary masks indicating tumor regions.
 
 ---
 
-## 🏗️ Architecture & Implementation
+##  Architecture & Implementation
 * **Encoder (Contracting Path):** Feature extraction via double convolution blocks with BatchNorm, ReLU, and MaxPool2d.
 * **Bottleneck:** High-level feature representation layer.
 * **Decoder (Expanding Path):** Transposed convolutions paired with **Skip Connections** to maintain spatial resolution.
 
 ---
 
-## 📈 Quantitative Results
+##  Quantitative Results
 * **Dice Similarity Coefficient:** `55.81%`
 * **IoU (Intersection over Union) Score:** `52.39%`
 
