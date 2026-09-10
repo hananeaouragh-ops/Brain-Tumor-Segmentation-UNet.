@@ -1,4 +1,4 @@
-#Brain Tumor Segmentation using U-Net & PyTorch
+#Brain Tumor Segmentation using U-Net & PyTorch#
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C)
