@@ -37,6 +37,9 @@ Accurate identification of brain lesions plays a critical role in computer-aided
 ##  Quantitative Results
 * **Dice Similarity Coefficient:** `55.81%`
 * **IoU (Intersection over Union) Score:** `52.39%`
+ <img width="875" height="990" alt="SORA1" src="https://github.com/user-attachments/assets/1e4e16ef-38ee-460a-9883-15f2d0344cf2" />
+<img width="960" height="540" alt="sora 3" src="https://github.com/user-attachments/assets/b47088fd-1e14-4261-b8eb-fc32a4c60a2b" />
+
 
 ---
 
